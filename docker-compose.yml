@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: jokibo-interior-design-website:latest
+    image: kimsoa/jokibo-interior-design-website:latest
     container_name: jokibo-interior-design-website
     ports:
       - "8008:8008"
