@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "message": "This is a test lead.",
+    "timestamp": "2026-02-23T10:34:06Z"
+  },
+  {
+    "name": "Final Test",
+    "email": "final@test.com",
+    "message": "Testing CORS and persistence.",
+    "timestamp": "2026-02-23T10:58:00Z"
+  },
+  {
+    "name": "Test",
+    "email": "test@example.com",
+    "message": "Hello",
+    "timestamp": ""
+  },
+  {
+    "name": "Test",
+    "email": "test@example.com",
+    "message": "Hello",
+    "timestamp": "2026-02-23T09:54:25.881035"
+  },
+  {
+    "name": "Test",
+    "email": "test@example.com",
+    "message": "Hello",
+    "timestamp": "2026-02-23T09:58:25.597297"
+  }
+]
